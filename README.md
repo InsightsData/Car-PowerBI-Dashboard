@@ -1,6 +1,8 @@
 # Car-PowerBI-Dashboard
 <img width="956" alt="image" src="https://user-images.githubusercontent.com/120230351/210703539-e405f478-f849-4c3c-9da8-1f10d488c11a.png">
 
+Visuals: Slicer; Key influencer; Clustered column chart; Scatter chart; Ribbon chart; Card; Gauge
+
 Incentive
 -
 1. What are the relationships between Price – Fuel Efficiency and Price – Horsepower?
